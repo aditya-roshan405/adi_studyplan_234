@@ -1,0 +1,5 @@
+TOC,1,Monday,High,false
+TOC,1,Tuesday,High,false
+TOC,1,Wednesday,High,false
+TOC,1,Thursday,High,true
+TOC,1,Friday,High,false
